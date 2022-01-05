@@ -1,0 +1,1 @@
+workout_chest_dict={'Barbell Bench Press': 0, 'Barbell Incline Press': 1, 'Barbell decline press': 0, 'Dumbell Bench Press': 0, 'Incline Dumbell Press': 1, 'Decline Dumbell Press': 0, 'Cable Crossover': 1, 'Low cable crossover': 0, 'Dumbell Fly': 0, 'Dumbell Pullover': 0, 'Pushups': 0, 'Narrow grip pushups': 0, 'Wide Grip Pushups': 0, 'Dips': 0}

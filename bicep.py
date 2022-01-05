@@ -1,0 +1,1 @@
+workout_bicep_dict={'EZ_Bar_Preacher_Curl': 0, 'hammer_curls': 1, 'behind_back_cable_curls': 0, 'reverse_curls': 0, 'Wide_grip_curls': 0, 'close_grip_curls': 1, 'Dumbell_curls': 0, 'side_cable_curls': 0, 'band_curls': 0, 'drag_curls': 1, 'cheat_curls': 0, 'Incline_biceps_curl': 0, 'one_arm_preacher_curls': 0, 'weighted_chinups': 0}

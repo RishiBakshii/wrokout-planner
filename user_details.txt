@@ -1,0 +1,1 @@
+user_details={'Username': 'ded', 'Age': 'ed', 'Contact': 'ededed', 'Weight': 'ed', 'Height': 'ede', 'E-Mail': 'ded', 'Gender': 'Male'}

@@ -1,0 +1,1 @@
+workout_legs_dict={'leg press': 0, 'leg extensions': 1, 'leg curls': 0, 'lunges': 0, 'calf raise': 1, 'front squats': 0, 'overhead lunges': 0, 'squats': 0, 'jumping squats': 0, 'barbell calf raise': 0, 'walking lunges': 0, 'weighted wall sit': 1, 'barbell squats': 0, 'seated calf raise': 0}

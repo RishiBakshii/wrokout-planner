@@ -1,0 +1,1 @@
+workout_schedule={'monday': 'deded', 'tuesday': 'e', 'wednesday': 'ede', 'thursday': 'dd', 'friday': 'ed', 'saturday': 'ededed'}

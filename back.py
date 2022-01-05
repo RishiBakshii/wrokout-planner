@@ -1,0 +1,1 @@
+workout_back_dict={'Deadlift': 0, 'Pull_ups': 0, 'Dumbell Rows': 0, 'Lat Pulldown': 0, 'Chinups': 1, 'Seated Cable Rows': 0, 'Reverse Butterfly': 0, 'T_BAR': 1, 'Incline Dumbell Rows': 0, 'Back Extensions': 0, 'Kettlebell swing': 0, 'Lying_Lateral_Raise': 0, 'Barbell Back Squat': 0, 'Med Ball Slam': 1}
